@@ -15,11 +15,11 @@
     - [Modifying interfaces on gatus-node](#modifying-interfaces-on-gatus-node)
     - [Verifying IP forwarding on PVE host](#verifying-IP-forwarding-on-PVE-host)
 - [Prepared steps that couldn’t be tried out](#prepared-steps-that-couldn’t-be-tried-out)
-  - [Setting up Ansible]()
-  - [Editing the Docker role]
-  - [Editing the Gatus role]
-  - [Editing the Gatus playbook]
-- [Possible Further steps]
+  - [Setting up Ansible](#setting-up-ansible)
+  - [Editing the Docker role](#editing-the-docker-role)
+  - [Editing the Gatus role](#editing-the-gatus-role)
+  - [Editing the Gatus playbook](#editing-the-gatus-playbook)
+- [Possible Further steps](#possible-further-steps)
 
 ## Objectives
 
